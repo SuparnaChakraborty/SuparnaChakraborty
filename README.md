@@ -1,3 +1,6 @@
+# 💫 About Me:
+Hi 👋, I'm Suparna Chakraborty !!<br><br><br>Passionate and driven Pre Final Year student studying B.Tech CSE with a focus on Artificial Intelligence and Machine Learning.<br>A web development enthusiast seeking opportunities to enhance skills and contribute to innovative projects. <br>Ready for new challenges and personal growth.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/suparna-chakraborty) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@suparna_chakraborty) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/suparnatwts) 

@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Suparna Chakraborty !!
-<br><br><br>Passionate and driven Pre Final Year student studying B.Tech CSE with a focus on Artificial Intelligence and Machine Learning.<br>A web development enthusiast seeking opportunities to enhance skills and contribute to innovative projects. <br>Ready for new challenges and personal growth.
+<br>Passionate and driven Pre Final Year student studying B.Tech CSE with a focus on Artificial Intelligence and Machine Learning.<br>A web development enthusiast seeking opportunities to enhance skills and contribute to innovative projects. <br>Ready for new challenges and personal growth.
 
 
 ## 🌐 Socials:

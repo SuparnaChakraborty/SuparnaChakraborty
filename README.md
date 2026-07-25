@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Suparna Chakraborty !!
-<br>software developer.<br> seeking opportunities to enhance skills and contribute to innovative projects. <br>Ready for new challenges and personal growth.
+<br> A software developer seeking opportunities to enhance skills and contribute to innovative projects. <br>Ready for new challenges and personal growth.
 
 
 ## 🌐 Socials:
